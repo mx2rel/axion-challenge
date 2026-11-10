@@ -1,0 +1,3 @@
+Doczytałem o fazie względnej kubitu i jej znaczeniu w kontekście komputera kwantowego
+Krótkomówiąc, możemy ją traktować jako dodatkową informację w kubicie, która mimo tego, że nie wpływa na pomiar prawdopodobieństwa (bo przecież mierzymy amplitudy pionowe, a faza decyduje o obrocie wokól osi pionowej) ma duże znaczenie bo może na niego wpłynąć w przyszłości - informacja ta przechodzi razem z kubitem do następnej bramki.
+Dobrym tego przykładem są stany |+> i |->. Licząc prawdopodobieństwa obydwa wykażą 50% szans na 0 i 50% na 1, jednak po zastosowaniu bramki Hadamarda (ze względu na jej naturę), przekształcony kubit H|+> da 100% 0, a H|-> 100% 1.
